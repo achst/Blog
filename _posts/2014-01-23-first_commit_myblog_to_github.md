@@ -7,7 +7,7 @@ categories: 经验
 tags: github
 ---
 
-####第一次提交
+####第一次提交(事先在github创建初始仓库)
 
 `f:`
 
@@ -23,7 +23,7 @@ tags: github
 
 `git remote add origin https://github.com/hopehook/Blog.git`
 
-`git push origin gh-pages`
+`git push -f origin gh-pages`
 
 
 
